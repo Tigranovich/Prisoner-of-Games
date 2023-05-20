@@ -1,0 +1,134 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: url("https://oir.mobi/uploads/posts/2021-02/1612180324_33-p-zadnii-fon-dlya-pk-38.jpg");
+    height: 110px;
+}
+
+main {
+    background-color: gray;
+}
+
+footer {
+    background-color: orange;
+    text-align: center;
+    color: green;
+    font-size: 20px;
+}
+
+.gallery {
+    border-radius: 10px; 
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+ol {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 700px; height: 410px;
+    margin: 0 auto;
+    display: block;
+    color: green;
+    font-size: 25px;
+    background-color: aquamarine;
+}
+
+td {
+    border: 2px solid green;
+}
+
+.infa2 {
+    text-align: center;
+    list-style-type: none;
+}
+
+.video {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.coin {
+    text-align: center;
+    font-size: 30px;
+}
+
+.coin2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.iron-photo {
+    background-image: url("https://oir.mobi/uploads/posts/2021-02/1612180244_15-p-zadnii-fon-dlya-pk-19.jpg");
+    color: green;
+    height: 500px;
+}
+
+.prices {
+    background-image: url("https://oir.mobi/uploads/posts/2021-02/1612180207_21-p-zadnii-fon-dlya-pk-26.jpg");
+    color: green;
+}
+
+.club-infa {
+    background-image: url("https://oir.mobi/uploads/posts/2021-02/1612180273_23-p-zadnii-fon-dlya-pk-28.jpg");
+    color: green;
+}
+
+.gallery-photo {
+    background-image: url("https://oir.mobi/uploads/posts/2021-02/1612180250_31-p-zadnii-fon-dlya-pk-36.jpg");
+    color: green;
+}
+
+nav a {
+    color: green;
+    background-color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.top-top {
+    background-color: orange;
+    font-size: 20px;
+    text-align: center;
+    position: fixed;
+    width: 60px; height: 60px;
+    margin-top: 400px;
+    border-radius: 50%;
+}
+
+nav a:hover {
+    color: black;
+}
+
+.top a{
+    color: green;
+}
+
+.top a:hover {
+    color: black;
+}
+
+.h1:hover {
+    background: linear-gradient(to right, lightgreen, white, gold);
+    border-radius: 15px;
+}
+
+header img {
+    margin: 5px;
+}
